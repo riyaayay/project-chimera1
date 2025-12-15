@@ -1,0 +1,9 @@
+Add core application components and landing page elements
+
+Introduces the main application structure, including routing, theming, and the landing page with its hero, features, agent showcase, and CTA sections. Also adds dashboard components like header, sidebar, stats, and tables, along with chat interface elements, scoring components, and knowledge graph visualization. Includes database setup and styling updates.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: b286f0ab-339b-4e0f-a60a-d07826c9ba82
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: ab6c2d17-2b43-45b6-8472-727870b79f19
+Replit-Helium-Checkpoint-Created: true
