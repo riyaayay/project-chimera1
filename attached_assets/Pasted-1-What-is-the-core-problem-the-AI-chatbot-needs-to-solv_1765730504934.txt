@@ -1,0 +1,192 @@
+1. What is the core problem the AI chatbot needs to solve?
+
+The core problem is that the traditional generic drug market is economically broken, leading to:
+
+Extreme price-based competition (“race to the bottom”)
+
+Unsustainably low profit margins for manufacturers
+
+Manufacturer exits and critical drug shortages
+
+A system that discourages innovation and long-term stability
+
+Instead of helping users buy generics, the AI system is designed to solve the upstream R&D and business-development problem:
+
+👉 Identifying high-value drug repurposing and Value-Added Medicine (VAM) opportunities that are scientifically plausible, commercially profitable, and legally defensible.
+
+In short:
+
+The chatbot’s purpose is not consumer assistance, but to automate pharma R&D and BD decision-making by generating investable drug repurposing cases, not just ideas. 
+
+The-dollar100B-Generic-Market-i…
+
+2. Who are the target users and what tasks should the chatbot help them accomplish?
+🎯 Target Users
+
+According to the deck, the target users are enterprise-level pharmaceutical stakeholders, not patients:
+
+Pharmaceutical Business Development (BD) teams
+
+R&D strategy teams
+
+Investment and licensing decision-makers
+
+IP and market access professionals
+
+Strategic pharma partners evaluating pipelines
+
+🧠 Tasks the chatbot should help them accomplish
+
+The chatbot should act as an AI “Deal Team”, helping users to:
+
+Identify promising drug repurposing candidates
+
+Evaluate scientific plausibility (mechanism, target, indication fit)
+
+Analyze commercial viability (market size, pricing potential, competition)
+
+Assess IP defensibility (patents, exclusivity, method-of-use claims)
+
+Generate investment-grade reports automatically
+
+Prioritize opportunities using a quantitative scoring framework (MCDA)
+
+This mirrors the role of:
+
+Bioinformatics experts + market analysts + patent lawyers working together 
+
+The-dollar100B-Generic-Market-i…
+
+3. What key features should the chatbot have?
+
+Based on Project Chimera’s design, the chatbot should include the following features:
+
+🔑 Core Functional Features
+
+Automated Hypothesis Generation
+
+Suggests new drug–indication pairings using scientific literature and clinical data
+
+Multi-Agent Reasoning
+
+Separate AI agents acting as:
+
+Bioinformatics Expert
+
+Market Analyst
+
+Patent/IP Lawyer
+
+Viability & Defensibility Scorecard (MCDA)
+
+Scores every opportunity on three axes:
+
+Plausible? (Scientific)
+
+Profitable? (Commercial)
+
+Defensible? (IP)
+
+Knowledge Graph–Driven Search
+
+Uses a Pharma-Commercial Knowledge Graph (PC-KG) combining:
+
+Scientific literature
+
+Patent data
+
+Market and sales data
+
+Auditable & Explainable Outputs
+
+Transparent, traceable workflows (LangGraph)
+
+Human-in-the-loop checkpoints for regulated environments
+
+Investment-Ready Reporting
+
+Produces concise, professional-grade reports suitable for BD and investment decisions
+
+The system “doesn’t find ideas — it generates investment cases.” 
+
+The-dollar100B-Generic-Market-i…
+
+4. Do you have any branding preferences for the website?
+
+Yes — the branding is implicitly defined in the presentation:
+
+🧬 Brand Identity
+
+Product Name: Project Chimera
+
+Tone: Serious, analytical, enterprise-grade
+
+Industry: Pharma, biotech, AI-driven R&D
+
+Style:
+
+Clean
+
+Data-driven
+
+Minimalist
+
+Trust-focused (suitable for regulated environments)
+
+🎨 Visual Direction (Inferred)
+
+Muted, professional colors (e.g., deep blue, slate, grey, white)
+
+Graphs, scorecards, decision matrices
+
+Emphasis on credibility, transparency, and precision
+
+This is not a consumer health brand — it is positioned as deep-tech infrastructure for pharma strategy.
+
+5. What type of AI capabilities are envisioned?
+
+The presentation clearly outlines advanced, enterprise-grade AI capabilities, including:
+
+🤖 Core AI Capabilities
+
+Natural Language Reasoning
+
+Understands scientific, legal, and commercial queries
+
+Synthesizes unstructured data into structured insights
+
+Multi-Agent AI System
+
+Specialized LLM agents collaborate autonomously
+
+Each agent reasons within its domain expertise
+
+Knowledge Graph Reasoning
+
+Traverses relationships between drugs, targets, indications, patents, and markets
+
+Decision Intelligence
+
+Uses Multi-Criteria Decision Analysis (MCDA)
+
+Produces objective, algorithm-driven scores
+
+Explainable & Auditable AI
+
+Traceable workflows
+
+Suitable for regulated pharma environments
+
+Supports human oversight
+
+Guided, End-to-End Workflows
+
+From hypothesis → analysis → scoring → investment decision
+
+The AI functions as a fully automated R&D and BD deal team, not a simple chatbot. 
+
+The-dollar100B-Generic-Market-i…
+
+✅ Summary in One Line
+
+Project Chimera’s chatbot is an enterprise AI system that replaces manual pharma BD diligence by generating explainable, auditable, investment-ready drug repurposing opportunities using multi-agent AI and knowledge graphs.
